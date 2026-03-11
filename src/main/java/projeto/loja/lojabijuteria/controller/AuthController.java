@@ -13,7 +13,7 @@ import projeto.loja.lojabijuteria.dto.RegisterRequest;
 import projeto.loja.lojabijuteria.service.AuthService;
 
 @RestController
-@RequestMapping("/api/user")
+@RequestMapping("/api/auth")
 @RequiredArgsConstructor
 public class AuthController {
 
