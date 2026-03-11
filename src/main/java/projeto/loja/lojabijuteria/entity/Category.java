@@ -1,4 +1,4 @@
-package projeto.loja.lojabijuteria.model;
+package projeto.loja.lojabijuteria.entity;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
